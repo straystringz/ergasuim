@@ -32,7 +32,7 @@ Ergasium is a task management application built with FastAPI. It provides a simp
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/ergasium.git
+   git clone https://github.com/straystringz/ergasium.git
    cd ergasium
    ```
 
@@ -147,6 +147,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Author**: Victor Emmanuel
+- **Email**: hire.victor@outlook.com
+- **GitHub**: [DevChoco](https://github.com/straystringz)
