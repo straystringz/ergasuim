@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <!-- Main circular element representing 'e' -->
+  <circle cx="50" cy="50" r="30" fill="none" stroke="#2D3436" stroke-width="8"/>
+  
+  <!-- Horizontal line through the 'e' -->
+  <line x1="50" y1="50" x2="80" y2="50" stroke="#2D3436" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- Abstract geometric element suggesting forward movement -->
+  <path d="M100 35 L130 50 L100 65" fill="none" stroke="#2D3436" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Company name -->
+  <text x="150" y="60" font-family="Arial" font-size="32" font-weight="bold" fill="#2D3436">ergasium</text>
+</svg>

@@ -1,4 +1,4 @@
-# Ergasium
+![Ergasium Logo](assets/ergasium-logo.svg)
 
 ## Overview
 
@@ -124,6 +124,8 @@ Ergasium is a task management application built with FastAPI. It provides a simp
 - **URL**: `/tasks/{task_id}`
 - **Method**: `DELETE`
 - **Headers**: `Authorization: Bearer <access_token>`
+
+![Task Management](assets/ergasium.png)
 
 ## Running Tests
 
